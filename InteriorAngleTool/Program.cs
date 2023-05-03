@@ -21,7 +21,7 @@ namespace InteriorAngleTool
             // Intro
             Console.WriteLine("Hello there! Welcome to my Interior Angle Tool!");
             Console.WriteLine("You can use this tool to calculate the total interior angle and the angle of the center.");
-            Console.WriteLine("Please enter the number of sides of the interior polygon below:");
+            Console.WriteLine("Please enter the number of sides of the regular polygon below:");
             try
             {
                 // Create variables
